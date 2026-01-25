@@ -90,8 +90,7 @@ I’m eager to learn, contribute, and grow in a professional environment.
 
 ## 📬 Contact Me
 
-- 📧 **Email:** sreenathaksharam@gmail.com  
-- 📞 **Phone:** +91 9061409927
+- 📧 **Email:** sreenathmalamal09@gmail.com  
 - 🔗 **GitHub:** https://github.com/Haty-sreenath
 
 ---

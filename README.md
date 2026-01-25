@@ -1,104 +1,159 @@
+<!-- FULL WIDTH HERO --> 
 <div align="center">
 
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=E6B87A&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sreenath+M;Higher+Secondary+Student+Developer+from+India;Cyber+Security+%7CData+Analyst+%7C+Cryptography+%7C+Game+Development;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=SREENATH%20M&fontSize=48&fontColor=E6B87A&animation=fadeIn" width="100%"/>
 
-<br/>
+<img src="https://avatars.githubusercontent.com/u/146645484?v=4" width="140"/>
 
-<div align="center">
+<h3>Student Developer • Internship Seeker</h3>
 
-<img src="https://raw.githubusercontent.com/Haty-sreenath/Haty-sreenath/main/avatar.svg" width="160" />
+Cyber Security | Data Analysis | Cryptography | Game Development
+
+<img src="https://img.shields.io/badge/Open%20to%20Internships-2EA44F?style=flat-square"/>
+<img src="https://img.shields.io/badge/India-000000?style=flat-square"/>
 
 </div>
 
-
-
-<br/><br/>
-
-**Student Developer | Internship Seeker**  
-Building real-world projects with curiosity, discipline, and clean code.
-
-</div>
+```
 
 ---
 
-## 🧠 About Me
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                          ABOUT ME                            ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-I’m **Sreenath M**, a higher secondary student from India with hands-on experience in building practical projects across **Data Analysis, Cyber Security, Cryptography fundamentals, and game development**.
+I’m **Sreenath M**, a higher secondary student from India who learns by **building real systems**, breaking them, and improving them.
 
-I enjoy learning by building real systems — from safety-focused IoT solutions to experimental cryptocurrencies and educational platforms. I’m self-driven, adaptable, and motivated to grow through real-world collaboration and internships.
+My interests span **cybersecurity**, **data analysis**, **cryptography fundamentals**, and **game development**.
+I’m self-driven, disciplined, and actively looking for **internships, mentorship, and open-source collaboration**.
 
 ---
 
-## 🧰 Tech Stack
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                        TECH STACK                            ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+**Languages**
+
+```
+Python • HTML • Ruby
+```
+
+**Tools & Platforms**
+
+```
+Git • GitHub • Linux • Kali Linux
+```
+
+**Engines**
+
+```
+Godot
+```
+
+---
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                         PROJECTS                             ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+### 🪙 NewCoin
+
+**Privacy-focused cryptocurrency concept**
+
+```
+• Blockchain fundamentals
+• ASIC-resistant mining idea
+• Inspired by Bitcoin & Monero
+• Educational & experimental
+```
+
+🔗 [https://github.com/Haty-sreenath/newcoin](https://github.com/Haty-sreenath/newcoin)
+
+---
+
+### 🌐 WebberFlood
+
+**Network traffic simulation & monitoring tool**
+
+```
+• Network behavior analysis
+• Traffic & load simulation
+• Cybersecurity learning project
+```
+
+---
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                      GITHUB ANALYTICS                        ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
 
-### 💻 Languages & Core Tech
-<img src="https://skillicons.dev/icons?i=python,html,ruby" />
+<img src="https://github-readme-stats.vercel.app/api?username=Haty-sreenath&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
 
-### 🌐 Web & Tools
-<img src="https://skillicons.dev/icons?i=git,github,linux" />
-
-### 🔧 Other Technologies
-<img src="https://skillicons.dev/icons?i=kali,godot" />
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Haty-sreenath&theme=tokyonight&hide_border=true" height="160"/>
 
 </div>
 
 ---
 
-## 🚀 Projects
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    CURRENTLY LEARNING                        ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-### 🪙 NewCoin  
-**Privacy-first cryptocurrency model**  
-- Blockchain fundamentals  
-- ASIC-resistant concept inspired by Bitcoin & Monero  
-
-🔗 https://github.com/Haty-sreenath/newcoin
-
---- 
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Haty-sreenath&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Haty-sreenath&theme=tokyonight&hide_border=true" height="160" />
-
-</div>
+```
+• Data Analysis with Python
+• Blockchain & Cryptography
+• Ethical Hacking & Bug Bounty
+```
 
 ---
 
-## 🎯 Currently Learning
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    OPEN TO OPPORTUNITIES                     ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-- Data Analysis with python
-- Blockchain & cryptography fundamentals  
-- Ethical hacking & bug bounty
-
----
-
-## 💡 Open to Opportunities
-
-I’m actively looking for:
-- **Software Development Internships**
-- Cyber Security / Data Analyst / Blockchain Developer
-- Educational & open-source collaborations
-
-I’m eager to learn, contribute, and grow in a professional environment.
+```
+✔ Software Development Internships
+✔ Cyber Security / Data Analyst / Blockchain roles
+✔ Educational & Open-source collaborations
+```
 
 ---
 
-## 📬 Contact Me
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                         CONTACT                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-- 📧 **Email:** sreenathmalamal09@gmail.com  
-- 🔗 **GitHub:** https://github.com/Haty-sreenath
+```
+📧 Email  : sreenathmalamal09@gmail.com
+💻 GitHub : https://github.com/Haty-sreenath
+```
 
 ---
 
 <div align="center">
 
-✨ *“Learning by building, improving by doing.”* ✨
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✨ *Learning by building, improving by doing.* ✨
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
+```
+
+---

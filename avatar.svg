@@ -18,9 +18,12 @@
   </clipPath>
 
   <image
-    href="https://avatars.githubusercontent.com/u/146645484?v=4"
-    x="20" y="20"
-    width="160" height="160"
-    clip-path="url(#clip)"
-  />
+  href="146645484.png"
+  x="20"
+  y="20"
+  width="160"
+  height="160"
+  clip-path="url(#clip)"
+/>
+
 </svg>

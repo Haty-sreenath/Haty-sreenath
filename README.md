@@ -88,7 +88,7 @@ I’m self-driven, disciplined, and actively seeking **internships and collabora
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:32CD32,100:0f2027&height=120&section=footer" width="100%"/>
 
 <div align="center">
 

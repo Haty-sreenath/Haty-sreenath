@@ -1,5 +1,5 @@
 <!-- TOP WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:32CD32,50:203a43,100:2c5364&height=120&section=header&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -82,7 +82,8 @@ I’m self-driven, disciplined, and actively seeking **internships and collabora
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haty-sreenath&theme=tokyonight&hide_border=true" height="160"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haty-sreenath&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Haty-sreenath&show_icons=true&theme=radical&hide_border=true&title_color=00FF9C&icon_color=00FF9C&text_color=00FF9C&bg_color=0d1b0c" />
+
 
 </div>
 

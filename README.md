@@ -9,7 +9,7 @@
 <br/><br/>
 
 <!-- AVATAR -->
-<img src="https://avatars.githubusercontent.com/u/146645484?v=4" width="150"/>
+<img src="https://avatars.githubusercontent.com/u/146645484?v=4" width="350"/>
 
 <br/><br/>
 

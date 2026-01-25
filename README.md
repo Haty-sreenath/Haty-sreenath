@@ -5,7 +5,14 @@
 
 <br/>
 
-<img src="https://avatars.githubusercontent.com/u/146645484?v=4" width="140" style="border-radius:50%;" />
+<img src="https://avatars.githubusercontent.com/u/146645484?v=4"
+     width="150"
+     style="
+       border-radius: 50%;
+       padding: 6px;
+       background: linear-gradient(135deg, #E6B87A, #6C63FF);
+     " />
+
 
 <br/><br/>
 

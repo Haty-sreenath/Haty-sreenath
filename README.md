@@ -1,95 +1,80 @@
-<!-- FULL WIDTH HERO --> 
+<!-- TOP WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&animation=fadeIn" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=SREENATH%20M&fontSize=48&fontColor=E6B87A&animation=fadeIn" width="100%"/>
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=E6B87A&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sreenath+M;Student+Developer+from+India;Cyber+Security+%7C+Data+Analysis;Cryptography+%7C+Game+Development;Always+Learning.+Always+Building." />
 
-<img src="https://avatars.githubusercontent.com/u/146645484?v=4" width="140"/>
+<br/><br/>
 
-<h3>Student Developer • Internship Seeker</h3>
+<!-- AVATAR -->
+<img src="https://avatars.githubusercontent.com/u/146645484?v=4" width="150"/>
 
-Cyber Security | Data Analysis | Cryptography | Game Development
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Open%20to%20Internships-2EA44F?style=flat-square"/>
-<img src="https://img.shields.io/badge/India-000000?style=flat-square"/>
+<!-- SUB TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=6C63FF&center=true&vCenter=true&width=700&lines=Open+to+Internships;Building+Real-World+Projects;Learning+Through+Practice" />
 
 </div>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                          ABOUT ME                            ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-I’m **Sreenath M**, a higher secondary student from India who learns by **building real systems**, breaking them, and improving them.
-
-My interests span **cybersecurity**, **data analysis**, **cryptography fundamentals**, and **game development**.
-I’m self-driven, disciplined, and actively looking for **internships, mentorship, and open-source collaboration**.
-
 ---
-```
-╔══════════════════════════════════════════════════════════════╗
-║                        TECH STACK                            ║
-╚══════════════════════════════════════════════════════════════╝
-```
 
-**Languages**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:0f2027&height=40&section=header" width="100%"/>
 
-```
-Python • HTML • Ruby
-```
+## 🧠 About Me
 
-**Tools & Platforms**
+I’m **Sreenath M**, a higher secondary student from India who learns best by **building, experimenting, and improving real systems**.
 
-```
-Git • GitHub • Linux • Kali Linux
-```
-
-**Engines**
-
-```
-Godot
-```
+My interests include **cybersecurity**, **data analysis**, **cryptography fundamentals**, and **game development**.  
+I’m self-driven, disciplined, and actively seeking **internships and collaborative learning opportunities**.
 
 ---
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                         PROJECTS                             ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:203a43&height=40&section=header" width="100%"/>
+
+## 🧰 Tech Stack (Animated Icons)
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,ruby&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,kali&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=godot&theme=dark" />
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:2c5364&height=40&section=header" width="100%"/>
+
+## 🚀 Projects
 
 ### 🪙 NewCoin
+**Privacy-first cryptocurrency concept**
 
-**Privacy-focused cryptocurrency concept**
+- Blockchain fundamentals  
+- ASIC-resistant mining idea  
+- Inspired by Bitcoin & Monero  
+- Educational & experimental  
 
-```
-• Blockchain fundamentals
-• ASIC-resistant mining idea
-• Inspired by Bitcoin & Monero
-• Educational & experimental
-```
-
-🔗 [https://github.com/Haty-sreenath/newcoin](https://github.com/Haty-sreenath/newcoin)
+🔗 https://github.com/Haty-sreenath/newcoin
 
 ---
 
 ### 🌐 WebberFlood
+**Network traffic simulation & monitoring**
 
-**Network traffic simulation & monitoring tool**
-
-```
-• Network behavior analysis
-• Traffic & load simulation
-• Cybersecurity learning project
-```
+- Network behavior analysis  
+- Traffic & load simulation  
+- Cybersecurity learning project  
 
 ---
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                      GITHUB ANALYTICS                        ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=40&section=header" width="100%"/>
+
+## 📊 GitHub Activity (Live)
 
 <div align="center">
 
@@ -97,58 +82,16 @@ Godot
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haty-sreenath&theme=tokyonight&hide_border=true" height="160"/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haty-sreenath&theme=tokyo-night&hide_border=true" />
+
 </div>
 
 ---
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    CURRENTLY LEARNING                        ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-```
-• Data Analysis with Python
-• Blockchain & Cryptography
-• Ethical Hacking & Bug Bounty
-```
-
----
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    OPEN TO OPPORTUNITIES                     ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-```
-✔ Software Development Internships
-✔ Cyber Security / Data Analyst / Blockchain roles
-✔ Educational & Open-source collaborations
-```
-
----
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                         CONTACT                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-```
-📧 Email  : sreenathmalamal09@gmail.com
-💻 GitHub : https://github.com/Haty-sreenath
-```
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
 
 <div align="center">
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ✨ *Learning by building, improving by doing.* ✨
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
-```
-
----

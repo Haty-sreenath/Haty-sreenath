@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=E6B87A&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sreenath+M;Student+Developer+from+India;Cyber+Security+%7C+Data+Analysis;Cryptography+%7C+Game+Development;Always+Learning.+Always+Building." />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=100&color=32CD32&center=true&vCenter=true&width=900&lines=$+whoami;Sreenath+M;$+role;Student+Developer;$+interests;Cyber+Security+%7C+Data+Analysis+%7C+Blockchain" />
 
 <br/><br/>
 
@@ -14,7 +14,7 @@
 <br/><br/>
 
 <!-- SUB TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=6C63FF&center=true&vCenter=true&width=700&lines=Open+to+Internships;Building+Real-World+Projects;Learning+Through+Practice" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=32CD32&center=true&vCenter=true&width=700&lines=$+Building+Real-World+Projects;$+Learning+Through+Practice" />
 
 </div>
 

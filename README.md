@@ -51,11 +51,7 @@ I enjoy learning by building real systems — from safety-focused IoT solutions 
 
 🔗 https://github.com/Haty-sreenath/newcoin
 
----
-## 🛠️ WebberFlood
-**A DDoS tool**
-- Acts as a network trafic monitor
-- maliciously works as a DDoS 
+--- 
 
 ## 📊 GitHub Stats
 

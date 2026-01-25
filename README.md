@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=E6B87A&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sreenath+M;Higher+Secondary+%7+Student+Developer+from+India;Data+Analyst+%7C+Cryptography+%7C+Game+Development;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=E6B87A&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sreenath+M;Higher+Secondary+Student+Developer+from+India;Data+Analyst+%7C+Cryptography+%7C+Game+Development;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 <br/>
 

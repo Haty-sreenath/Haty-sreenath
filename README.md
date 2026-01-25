@@ -51,7 +51,7 @@ I’m self-driven, disciplined, and actively seeking **internships and collabora
 
 ## 🚀 Projects
 
-### 🪙 NewCoin
+### ₿ NewCoin
 **Privacy-first cryptocurrency concept**
 
 - Blockchain fundamentals  

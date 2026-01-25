@@ -78,9 +78,9 @@ I’m self-driven, disciplined, and actively seeking **internships and collabora
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Haty-sreenath&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Haty-sreenath&show_icons=true&theme=radical&hide_border=true&title_color=000080&icon_color=00FFFF&text_color=32CD32&bg_color=000000" height="160"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Haty-sreenath&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Haty-sreenath&theme=radical&hide_border=true&title_color=000080&icon_color=00FFFF&text_color=32CD32&bg_color=000000" height="160"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Haty-sreenath&show_icons=true&theme=radical&hide_border=true&title_color=000080&icon_color=00FFFF&text_color=32CD32&bg_color=000000" />
 

@@ -5,13 +5,8 @@
 
 <br/>
 
-<img src="https://avatars.githubusercontent.com/u/146645484?v=4"
-     width="150"
-     style="
-       border-radius: 50%;
-       padding: 6px;
-       background: linear-gradient(135deg, #E6B87A, #6C63FF);
-     " />
+<img src="https://avatars.githubusercontent.com/u/146645484?v=4" width="150"
+     style="border-radius: 50%;box-shadow: 0 0 20px rgba(230, 184, 122, 0.6);" />
 
 
 <br/><br/>
